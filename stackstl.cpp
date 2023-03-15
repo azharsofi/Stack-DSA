@@ -1,4 +1,4 @@
-//STACK USIN STL
+//STACK USING STL
 
 #include<iostream>
 #include<stack>
